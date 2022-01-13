@@ -1,0 +1,11 @@
+let
+    var s := 0
+    var n := 1
+in
+    while n<>1 do
+        if n%2 = 0 then /*se o numero for divisivel por 2, divide por 2 direto/
+            (n:=(n)/2)
+        else
+            if n%3 = 0 then /*se o numero for divisivel por 3, soma 1 e divide por 2*/
+                (n:=(n+1)/2);
+        printi(n)

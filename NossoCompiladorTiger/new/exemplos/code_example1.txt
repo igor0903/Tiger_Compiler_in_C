@@ -1,0 +1,5 @@
+let
+    var n := 1
+in
+    if n <= 10 then
+        printi(n)

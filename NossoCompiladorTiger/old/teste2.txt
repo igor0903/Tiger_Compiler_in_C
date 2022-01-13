@@ -1,0 +1,10 @@
+int A := scani()
+int B := scani()
+var C
+while b<a do {
+    (C := A-B);
+    (if C=1 then b:=100);
+    (if A<=C then A:= C else B:=C);
+    (a:=3)
+
+}

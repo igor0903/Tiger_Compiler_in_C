@@ -1,0 +1,10 @@
+• Tipo básico (int) e constantes (números inteiros)
+(done) • Expressões aritméticas: +, -, *, /, %
+(done) • Declarações de variáveis e atribuições simples: var := expr
+(done) • Operadores de comparação: =, <>, <, <=, >, >=
+(done) • Execução condicional: if-then e if-then-else
+(done) • Sequências de expressões: ( expr; expr; . . . expr }
+(done) • Ciclos while
+• Definição de funções com argumentos e retorno de valores
+(done) • Funções para entrada e saída de inteiros: scani(), printi()
+(done) • Comentarios

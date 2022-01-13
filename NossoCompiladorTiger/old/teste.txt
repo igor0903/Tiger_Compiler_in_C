@@ -1,0 +1,35 @@
+a:=2+2
+
+a:=2*2
+
+a:=2*a/6+8%34-0
+
+a:= a<2
+
+a:= b>2
+
+a:= c=2
+
+a:= d>=2
+
+a:= d<=323232
+
+a:= d<>2
+
+a:= 3+1 < 4+6
+
+if b<3 then a:=3
+
+if c<3 then if c<3 then a:=3
+
+if a<b then 
+a:=3 else 
+a:=4
+
+c:= c + 1
+
+while  b<>3 do (A:=2;B:=3;if b<3 then a:=3)
+
+a:= scani()
+
+[A:=2;B:=4]

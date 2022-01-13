@@ -1,0 +1,7 @@
+let
+    var s := 4
+    var n := 1
+in
+    while n <= 10 do
+        (s:=s+1;n:=n+1);
+    printi(n) /*printa numero*/
